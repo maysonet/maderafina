@@ -7,5 +7,6 @@ export default () => (
     style={{
       backgroundImage: `url(/images/logo.svg)`
     }}
+    
   />
 )
